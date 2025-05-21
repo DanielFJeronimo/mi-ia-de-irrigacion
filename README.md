@@ -1,20 +1,16 @@
+# buildingai
+Building AI course project
+## Sistema de Riego Inteligente para Agricultores Rurales
+Proyecto Final curso
 
+##Summary 
+Desarrollar un sistema de riego inteligente, económico y fácil de usar que permita a agricultores rurales, con conocimientos tecnológicos limitados, optimizar el uso del agua y reducir el esfuerzo físico y el tiempo requerido para regar sus cultivos, mejorando así su productividad y calidad de vida.
 
-"## Resumen"
+## Resumen
 Este proyecto propone un sistema de riego inteligente asistido por IA, diseñado específicamente para agricultores rurales en zonas donde los cultivos suelen regarse de forma completamente manual. El objetivo es mejorar la eficiencia del riego, reducir el tiempo invertido por el agricultor y optimizar el uso del agua, todo mediante una solución económica, intuitiva y adaptable.
 
 
 
-
-
-# mi-ia-de-irrigacion
-Nombre del proyecto: Sistema de Riego Inteligente para Agricultores Rurales  
-Tipo de IA: Reglas lógicas simples con sensores (nivel 1 de inteligencia artificial)  
-Problema: Riego ineficiente, manual y demandante para agricultores en zonas rurales de Colombia.  
-Solución: Sistema semiautomático con sensores de humedad, válvulas eléctricas y control simple manual.  
-Impacto:Mejora el uso del agua, reduce la carga de trabajo y permite al agricultor mantener el control.  
-Relevancia: Económico, accesible, escalable y respetuoso del entorno rural y las prácticas locales.
-Predicción Inteligente de Riego para Cultivos
 ## Resumen del problema:
 Muchos agricultores en zonas rurales de Colombia riegan sus cultivos de forma manual y empírica. Esto provoca desperdicio de agua y tiempo.
 
