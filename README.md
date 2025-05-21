@@ -2,7 +2,8 @@
 
 ## Resumen
 
-Proyecto de sistema semiautomatizado de riego que optimiza el uso del agua y facilita el trabajo agrícola en zonas rurales con acceso limitado a tecnología. Building AI course project.
+Proyecto de sistema semiautomatizado de riego que optimiza el uso del agua y facilita el trabajo agrícola en zonas rurales con acceso limitado a tecnología.
+ Building AI course project.
 
 ## Antecedentes
 
