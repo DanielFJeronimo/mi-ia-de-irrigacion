@@ -1,3 +1,13 @@
+
+
+## Resumen
+
+Nombre del proyecto: Sistema de Riego Inteligente para Agricultores Rurales  
+Tipo de IA: Reglas lógicas simples con sensores (nivel 1 de inteligencia artificial)  
+Problema: Riego ineficiente, manual y demandante para agricultores en zonas rurales de Colombia.  
+Solución: Sistema semiautomático con sensores de humedad, válvulas eléctricas y control simple manual.  
+Impacto:Mejora el uso del agua, reduce la carga de trabajo y permite al agricultor mantener el control.  
+Relevancia: Económico, accesible, escalable y respetuoso del entorno rural y las prácticas locales.
 # mi-ia-de-irrigacion
 Predicción Inteligente de Riego para Cultivos
 Resumen del problema:
