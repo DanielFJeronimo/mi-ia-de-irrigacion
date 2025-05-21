@@ -1,10 +1,12 @@
+## Resumen
+
+Sistema semiautomatizado de riego que ayuda a agricultores rurales a optimizar el uso del agua y reducir el esfuerzo físico. Fácil de usar, económico y adaptable a condiciones locales, pensado para usuarios con conocimientos tecnológicos básicos.
+
+
 # Sistema de Riego Inteligente para Agricultores Rurales
 
 Building AI course project
 
-## Resumen
-
-Sistema semiautomatizado de riego que ayuda a agricultores rurales a optimizar el uso del agua y reducir el esfuerzo físico. Fácil de usar, económico y adaptable a condiciones locales, pensado para usuarios con conocimientos tecnológicos básicos.
 
 ## Background
 
