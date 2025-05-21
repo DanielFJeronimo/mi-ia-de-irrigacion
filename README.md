@@ -1,6 +1,6 @@
 
 
-## Resumen
+"## Resumen"
 Este proyecto propone un sistema de riego inteligente asistido por IA, diseñado específicamente para agricultores rurales en zonas donde los cultivos suelen regarse de forma completamente manual. El objetivo es mejorar la eficiencia del riego, reducir el tiempo invertido por el agricultor y optimizar el uso del agua, todo mediante una solución económica, intuitiva y adaptable.
 
 
