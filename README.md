@@ -1,6 +1,6 @@
 # Sistema de Riego Semiautomatizado para Zonas Rurales
 
-## Resumen
+##Resumen
 Este proyecto propone un sistema de riego semiautomatizado para agricultores rurales que optimiza el uso del agua mediante sensores y control lógico simple. Es económico, fácil de usar y adaptable. Building AI course project.
 
 ## Background
