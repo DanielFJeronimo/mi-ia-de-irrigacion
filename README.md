@@ -4,7 +4,8 @@ Building AI course project
 
 ## Resumen
 
-Sistema semiautomatizado de riego que ayuda a agricultores rurales a optimizar el uso del agua y reducir el esfuerzo físico. Fácil de usar, económico y adaptable a condiciones locales, pensado para usuarios con conocimientos tecnológicos básicos.
+Este proyecto propone un sistema de riego inteligente y accesible diseñado para agricultores de zonas rurales con conocimientos técnicos limitados. Combina sensores de humedad del suelo y una lógica automatizada sencilla para optimizar el uso del agua, reducir el tiempo de trabajo manual y mejorar la eficiencia del riego. La solución busca ser de bajo costo, fácil de mantener y adaptable a diferentes tipos de cultivos. 
+
 Building AI course project
 ## Background
 
