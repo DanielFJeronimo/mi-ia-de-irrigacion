@@ -1,64 +1,55 @@
-# buildingai
-Building AI course project
-## Sistema de Riego Inteligente para Agricultores Rurales
-Proyecto Final curso
+# Sistema de Riego Inteligente para Agricultores Rurales
 
-##Summary 
-Desarrollar un sistema de riego inteligente, económico y fácil de usar que permita a agricultores rurales, con conocimientos tecnológicos limitados, optimizar el uso del agua y reducir el esfuerzo físico y el tiempo requerido para regar sus cultivos, mejorando así su productividad y calidad de vida.
+Proyecto final del curso Building AI
 
-## Resumen
-Este proyecto propone un sistema de riego inteligente asistido por IA, diseñado específicamente para agricultores rurales en zonas donde los cultivos suelen regarse de forma completamente manual. El objetivo es mejorar la eficiencia del riego, reducir el tiempo invertido por el agricultor y optimizar el uso del agua, todo mediante una solución económica, intuitiva y adaptable.
+## Summary
 
+Sistema de riego semiautomatizado y accesible que ayuda a agricultores rurales a optimizar el uso del agua y reducir el esfuerzo físico al regar sus cultivos. Fácil de usar y económico, pensado para usuarios con conocimientos tecnológicos básicos.
 
+## Background
 
-## Resumen del problema:
-Muchos agricultores en zonas rurales de Colombia riegan sus cultivos de forma manual y empírica. Esto provoca desperdicio de agua y tiempo.
+El riego manual en zonas rurales representa un gran desafío por el esfuerzo físico y el tiempo que consume, afectando la productividad agrícola y la calidad de vida de los agricultores.  
+Este problema es frecuente en pequeñas fincas que carecen de sistemas automatizados debido al costo y la complejidad tecnológica.  
+Personalmente, quiero contribuir a mejorar las condiciones de trabajo de estos agricultores con una solución sencilla, accesible y eficiente.
 
-Solución propuesta:
-Un sistema con sensores de humedad del suelo y temperatura que analiza los datos y predice cuándo es necesario regar. Usa un modelo de machine learning para hacer recomendaciones prácticas al agricultor.
+Problemas que soluciona:  
+* Uso ineficiente del agua en riego manual  
+* Gran dedicación de tiempo y esfuerzo físico en la tarea de regar  
+* Falta de acceso a tecnologías de riego automatizado asequibles y fáciles de usar  
 
-Datos que se usarán:
+## How is it used?
 
-Humedad del suelo
+El sistema se instala en fincas pequeñas con acceso a electricidad solar y agua de nacederos. Utiliza sensores de humedad para monitorear el suelo y activa el riego automáticamente cuando es necesario, pero manteniendo la posibilidad de control manual.  
+Los usuarios son agricultores rurales con conocimientos limitados de tecnología, por lo que la interfaz y controles son intuitivos y accesibles.  
+El sistema puede operar en diferentes condiciones climáticas y cultivos, adaptándose a las necesidades locales.
 
-Temperatura ambiente
+## Data sources and AI methods
 
-Día/hora
+El sistema utiliza datos propios recolectados mediante sensores de humedad instalados en el terreno. No depende de bases de datos externas.  
+Se emplea lógica simple de control basada en umbrales de humedad para activar o desactivar el riego, evitando la complejidad de modelos predictivos avanzados para mantener la accesibilidad y bajo costo.
 
-Historial de riegos anteriores
+## Challenges
 
-Lluvias recientes
+El proyecto no soluciona:  
+* Riego en grandes superficies agrícolas ni con sistemas industriales complejos  
+* Problemas estructurales del terreno o fuentes de agua limitadas  
+* Implementación de inteligencia artificial avanzada para predicción meteorológica (en esta etapa)  
 
-Algoritmos posibles:
+Limitaciones éticas y técnicas:  
+* Es necesario asegurar que el sistema no sobreconsuma agua ni cause desperdicios  
+* La adopción depende de capacitación mínima para los usuarios  
 
-Regresión logística
+## What next?
 
-Árboles de decisión
+Para continuar el desarrollo, se podrían incorporar:  
+* Integración con pronósticos meteorológicos para optimizar riegos  
+* Implementación de alertas vía SMS o app móvil sencilla  
+* Mejoras en la interfaz para mayor accesibilidad  
+* Adaptación para otros tipos de cultivos y terrenos  
 
-KNN (clasificación de si se debe regar o no)
+Se requeriría colaboración con expertos en agricultura local y soporte técnico para usuarios.
 
-Interacción con el usuario:
-El agricultor verá una recomendación en una pantalla o recibirá un SMS. Puede decidir si acepta o no la sugerencia.
+## Acknowledgments
 
-Desafíos:
-
-Pocos datos al inicio
-
-No hay conexión a Internet constante
-
-La interfaz debe ser muy simple
-
-Impacto esperado:
-Menor consumo de agua, ahorro de tiempo, y decisiones de riego más acertadas. Aporta a la agricultura sostenible y al uso eficiente del agua.
-
-## ¿Qué tipo de IA usa esta idea?
-
-Esta idea usa una forma muy simple de inteligencia artificial: una lógica basada en reglas con entrada de sensores (por ejemplo, si humedad < 30% y no ha llovido, entonces activar riego). Se puede mejorar en el futuro con machine learning para aprender los patrones de riego óptimos por zona o cultivo.
-
-## ¿Para quién es útil?
-
-Está diseñada para agricultores con bajo acceso a tecnología o formación técnica, que trabajan en zonas rurales como Tunja, Boyacá (Colombia), y necesitan soluciones intuitivas y de bajo costo.
-
-## ¿Por qué es relevante?
-
-Ayuda a mejorar la eficiencia del riego, reduce el esfuerzo físico y puede aumentar la productividad agrícola. También es una forma de introducir IA accesible a sectores tradicionalmente excluidos de la tecnología.
+* Inspiración basada en las necesidades de agricultores rurales en Boyacá, Colombia  
+* Plantilla y guía del curso Building AI de Reaktor Innovations y Universidad de Helsinki  
