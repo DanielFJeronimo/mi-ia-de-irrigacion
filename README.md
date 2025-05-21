@@ -4,7 +4,13 @@ Building AI course project
 
 ## Resumen
 
-Este proyecto propone un sistema de riego inteligente y accesible diseñado para agricultores de zonas rurales con conocimientos técnicos limitados. Combina sensores de humedad del suelo y una lógica automatizada sencilla para optimizar el uso del agua, reducir el tiempo de trabajo manual y mejorar la eficiencia del riego. La solución busca ser de bajo costo, fácil de mantener y adaptable a diferentes tipos de cultivos. 
+Este proyecto busca ofrecer una solución de riego inteligente, económica y funcional que pueda ser utilizada por pequeños agricultores en regiones rurales, especialmente en zonas como Tunja, Boyacá (Colombia), donde los recursos son limitados y el conocimiento tecnológico puede ser básico. A partir del uso de sensores de humedad, el sistema permite automatizar parte del proceso de riego, alertando al agricultor cuando el nivel de agua en el suelo baja de un umbral específico o activando un sistema de riego de forma autónoma si así se configura.
+
+La propuesta nace como respuesta a una problemática común: muchos agricultores deben recorrer sus cultivos diariamente para revisar manualmente si las plantas necesitan agua, lo que consume tiempo y recursos. Este proyecto tiene como objetivo reducir ese esfuerzo, optimizar el uso del agua y ayudar a mantener la salud de los cultivos.
+
+Además, el sistema está diseñado para adaptarse a diferentes niveles de automatización. Puede funcionar de forma semiautomática (enviando notificaciones por SMS o activando una luz LED cuando es momento de regar), o completamente automática (activando una bomba de agua o válvula solenoide). La lógica es simple, confiable y pensada para ser fácilmente replicable con componentes de bajo costo.
+
+El enfoque también contempla el uso de energía solar, para hacerlo más sostenible y útil en zonas sin acceso constante a electricidad. Este proyecto busca ser un punto de partida para futuras mejoras que integren predicción climática, inteligencia artificial y una interfaz más intuitiva para los usuarios.
 
 Building AI course project
 ## Background
