@@ -1,57 +1,29 @@
+# Sistema de Riego Semiautomatizado para Agricultores Rurales
+
 ## Resumen
 
-Sistema semiautomatizado de riego que ayuda a agricultores rurales a optimizar el uso del agua y reducir el esfuerzo físico. Fácil de usar, económico y adaptable a condiciones locales, pensado para usuarios con conocimientos tecnológicos básicos.
+Proyecto de sistema semiautomatizado de riego que optimiza el uso del agua y facilita el trabajo agrícola en zonas rurales con acceso limitado a tecnología. Building AI course project.
 
+## Antecedentes
 
-# Sistema de Riego Inteligente para Agricultores Rurales
+El riego manual en zonas rurales consume mucho tiempo y recursos, afectando la productividad agrícola. Este sistema propone una solución accesible y económica para mejorar la eficiencia del riego en fincas pequeñas, apoyando a agricultores con conocimientos básicos y recursos limitados.
 
-Building AI course project
+## Cómo se usa
 
+El sistema combina automatización y control manual para permitir a los agricultores manejar el riego de forma eficiente, aprovechando fuentes de agua natural y energía solar. Los usuarios pueden monitorear y controlar el sistema fácilmente, adaptándose a diferentes condiciones climáticas y cultivos.
 
-## Background
+## Fuentes de datos y métodos de IA
 
-El riego manual en zonas rurales representa un gran desafío por el esfuerzo físico y el tiempo que consume, afectando la productividad agrícola y la calidad de vida de los agricultores.  
-Este problema es frecuente en pequeñas fincas que carecen de sistemas automatizados debido al costo y la complejidad tecnológica.  
-Personalmente, quiero contribuir a mejorar las condiciones de trabajo de estos agricultores con una solución sencilla, accesible y eficiente.
+Los datos provienen de sensores instalados en la finca que miden humedad del suelo y condiciones climáticas. La IA procesa estos datos para decidir cuándo activar el riego, optimizando el consumo de agua.
 
-Problemas que soluciona:  
-* Uso ineficiente del agua en riego manual  
-* Gran dedicación de tiempo y esfuerzo físico en la tarea de regar  
-* Falta de acceso a tecnologías de riego automatizado asequibles y fáciles de usar  
+## Desafíos
 
-## How is it used?
+El proyecto no resuelve problemas relacionados con infraestructura agrícola ni acceso a redes eléctricas en zonas muy remotas. Considera limitaciones en el acceso a internet y la necesidad de capacitación mínima para su uso.
 
-El sistema se instala en fincas pequeñas con acceso a electricidad solar y agua de nacederos. Utiliza sensores de humedad para monitorear el suelo y activa el riego automáticamente cuando es necesario, pero manteniendo la posibilidad de control manual.  
-Los usuarios son agricultores rurales con conocimientos limitados de tecnología, por lo que la interfaz y controles son intuitivos y accesibles.  
-El sistema puede operar en diferentes condiciones climáticas y cultivos, adaptándose a las necesidades locales.
+## Próximos pasos
 
-## Data sources and AI methods
+Mejorar la interfaz de usuario, incorporar alertas por SMS y ampliar la cobertura a más tipos de cultivos y condiciones climáticas. Se requiere colaboración con expertos en agricultura y desarrollo de hardware.
 
-El sistema utiliza datos propios recolectados mediante sensores de humedad instalados en el terreno. No depende de bases de datos externas.  
-Se emplea lógica simple de control basada en umbrales de humedad para activar o desactivar el riego, evitando la complejidad de modelos predictivos avanzados para mantener la accesibilidad y bajo costo.
+## Agradecimientos
 
-## Challenges
-
-El proyecto no soluciona:  
-* Riego en grandes superficies agrícolas ni con sistemas industriales complejos  
-* Problemas estructurales del terreno o fuentes de agua limitadas  
-* Implementación de inteligencia artificial avanzada para predicción meteorológica (en esta etapa)  
-
-Limitaciones éticas y técnicas:  
-* Es necesario asegurar que el sistema no sobreconsuma agua ni cause desperdicios  
-* La adopción depende de capacitación mínima para los usuarios  
-
-## What next?
-
-Para continuar el desarrollo, se podrían incorporar:  
-* Integración con pronósticos meteorológicos para optimizar riegos  
-* Implementación de alertas vía SMS o app móvil sencilla  
-* Mejoras en la interfaz para mayor accesibilidad  
-* Adaptación para otros tipos de cultivos y terrenos  
-
-Se requeriría colaboración con expertos en agricultura local y soporte técnico para usuarios.
-
-## Acknowledgments
-
-* Inspiración basada en las necesidades de agricultores rurales en Boyacá, Colombia  
-
+* Inspiración basada en problemas reales de comunidades rurales en Boyacá, Colombia.
