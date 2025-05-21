@@ -1,10 +1,10 @@
 # Sistema de Riego Inteligente para Agricultores Rurales
 
-Proyecto final del curso Building AI
+Building AI course project
 
-## Summary
+## Resumen
 
-Sistema de riego semiautomatizado y accesible que ayuda a agricultores rurales a optimizar el uso del agua y reducir el esfuerzo físico al regar sus cultivos. Fácil de usar y económico, pensado para usuarios con conocimientos tecnológicos básicos.
+Sistema semiautomatizado de riego que ayuda a agricultores rurales a optimizar el uso del agua y reducir el esfuerzo físico. Fácil de usar, económico y adaptable a condiciones locales, pensado para usuarios con conocimientos tecnológicos básicos.
 
 ## Background
 
@@ -52,4 +52,4 @@ Se requeriría colaboración con expertos en agricultura local y soporte técnic
 ## Acknowledgments
 
 * Inspiración basada en las necesidades de agricultores rurales en Boyacá, Colombia  
-* Plantilla y guía del curso Building AI de Reaktor Innovations y Universidad de Helsinki  
+
